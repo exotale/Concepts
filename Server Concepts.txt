@@ -60,50 +60,49 @@
           Karma
 ----------------------------
 
-- > Karma Grundsätze
-	- Wert einschaubar
-		> Kann von jedem Spieler per befehl eingesehen werden
-		> Wird nicht ohne anfrage ausgestrahlt
-	- Grundidee
-		> Wert ermöglicht dir Positive und Negative Features
-		> anhand dessen kann man wahlen für Clans treffen
-		> soll das Spielerlebnis für Spieler angenehmer machen
-		> Spieler die Negativ auffallen werden den Server nicht mehr im vollen Umfang genießen können
+- > Karma principle
+	- Value is visible
+		> Can be viewed by any player by command
+		> Will not be broadcast without request
+	- The basic idea
+		> Value allows you to have positive and negative features
+		> by means of which one can make choices for clans
+		> should make the gaming experience more enjoyable for players
+		> Players who notice negatives will not be able to fully enjoy the server
 
-- > Karma Steigerungsmöglichkeiten
-	- Absolvieren von Games
-		> Karma steigert sich durch absolvieren von Games ohne dabei negatives Karma zu verursachen!
-	- [Karma steigert sich durch Ehrenaktionen]
-	- [Karma steigert sich durch Steigerung des Clan-Stabiliäts-Indikators]
+- > Karma enhancement opportunities
+	- Completing games
+		> Karma increases by completing games without causing negative karma!
+	- [Karma increases through honorary actions]
+	- [Karma increases by increasing the Clan Stability Indicator]
 
-- > Karma Senkungsaktionen
-	- Negative formulierungen
-		> senken Karma
-		> verschiedene Formulierungen führen zu stärkeren Abzügen (Karma)
-		> Formulierungen werden [nicht/kaum] geblockt
-	- Leave Game
-		> Scaled mit häufigkeit
-        - Combatlogging
+- > Karma sinking actions
+	- Negative formulations
+		> lower karma
+		> different formulations lead to stronger deductions (Karma)
+		> Formulations are blocked [not / hardly]
+	- Combatlogging
+		> Scaled with frequency
 	- Buguse
 
-- > Karma folgen Negativ
-	- Chat einschränkungen
-		> keine Chatfunktionsbegrenzungen durch Zeit
-		> Chat wird ab bestimmtem negativem Wert eingegrenzt
-		> erst ab überschreiten des Wertes wird Chat wieder freigegeben
+- > Karma follow negative
+	- Chat restrictions
+		> no chat function limits by time
+		> Chat is narrowed down from a certain negative value
+		> Chat will be released again as soon as the value is exceeded
 	- Low Priority Queue
-		> Suche für Spieler bei unterschittenem Karmawert wird nicht priorisiert
-		> Kickpriority durch Ranghöhere spieler wird angehoben
-	- [In Game Deco Käufe]
-		> sind nur noch für dich selbst sichtbar
+		> Searching for players who have fallen below karma is not prioritized
+		> Kick priority by higher players is raised
+	- [In Game Deco Shop]
+		> are only visible to yourself
 
-- > Karma folgen Positiv
-	- Merkmal äuserlich
-		> [bei Spitzenwerten Namensfärbung zu [Gold]]
+- > Karma follow positive
+	- Characteristic externally
+		> [at peak values, name coloring to [gold]]
 	- [In Game Deco Käufe]
-		> bei steigendem Karma können Rabatt coins gesammelt werden
-		> Rabatt coins vergünstigen in Game Deco
-		> Ab hohem Karma level werden neue Deco's zum Kauf freigeschaltet
+		> as karma increases, discount coins can be collected
+		> Discount coins discount in Game Deco
+		> From high Karma level, new Deco's are unlocked for purchase
 
 
 #############################

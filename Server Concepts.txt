@@ -16,44 +16,45 @@
 		> to 16 Symbols
 		> forced to be indivitually
 
-- > Bearbeitung von Clans möglich
-	- nachträgliche namensänderung möglich (mit Tokens die man für Spielzeit und andere Aktionen(API) bekommt)
-	- spieler nachträglich einladen
-	- spieler kicken
-	- spieler promoten
+- > Editing of Clans
+	- changing of Names (with Tokens for playing or getting from the API)
+	- inviting Players
+	- kicking Players
+	-promoting Players
 
 - > Promoting System
-	- spieler können verschiedene rechte haben innerhalb des Clans
-		> kick recht
-		> invite recht
-		> challenge recht
-		> namens vergebungsrecht
-		> tag vergebungsrecht
-	- rechte können von spielern im Clan eigenständig vergeben werden
+	- Player can have different Roles in a Clan
+	 	Rights:
+		> kick
+		> invite
+		> challenge
+		> change name 
+		> change tag
+		> 'more?'
+	- Roles can be given bye the Player with rights
 
-- > Clan stabilitäts system
-	- Clan stabilitäts indikator
-		> von jedem Spieler aufrufbar
-		> aufrufbar und bei challenging sichtbar
-		> [bei tunieren relevant]
-	- gibt Auskunft über
-		> zuverlässigkeit des Clans bei challenge antritt
-		> wichtig bei invites neuer member
-	- errechnet sich wie folgt:
-		> Die (Spieler-Spieler-Werte) bezeihen sich von jedem Spieler im Clan individuell zu anderen Clan-Mitgliedern.
-		> Die (Spieler-Spieler-Werte) sinkt und steigt je nach [gesamtverhalten des Clans] individuel zu anderen Clan-Mitgliedern. 
-		> Der (Spieler-Mittelwert) errechnet sich aus dem Mittelwert der Summe aller (Spieler-Spieler-Werte). 
-		> Der (Clan-Stabilitätswert) errechnet sich aus dem Mittelwert der Summe aller (Spieler-Mittelwerte).
+- > Clan Stability
+	- Clan Stability Indicator
+		> can be seen bye any Player
+		> seen on challenging
+		> [relevant on tournaments]
+	- what is in it
+		> win change
+		> important on inviting of new players
+	- it got calculated like so:
+		> The (Player-Player-Value) are indiviually from Player to Player.
+		> The (player-player values) drops and increases individually with other clan members, depending on the [overall behavior of the clan]. 
+		> The (player average) is calculated from the mean of the sum of all (player-player values). 
+		> The (clan stability value) is calculated from the mean of the sum of all (average player values).
 
-- > Clan events
-	- [Clan Tuniere]
-        - [Challenching zwischen Clans]
-	- [Clan ranking-System] 
+- > Clan Events
+	- [Clan Tournaments]
+        - [Challenging betwen Clans]
+	- [Clan Ranking-System] 
 	
 	
 - > Mod
-	Serverübergreifende Mod mit Datenbank so das
-	jeder Clan auf allen Servern mit der Mod syncronisiert wird
+	Cross-server mod with database so that every clan on all servers is syncronized with the mod.
 
 ----------------------------
           Karma
